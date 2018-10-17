@@ -180,3 +180,9 @@ form.contact-form {
 .form-row button:active {
   background-color: #407FC7;
 }
+
+/*======================手機版用==========================*/
+@media screen and (max-width: 1023px) {
+  .container {
+    width: auto;
+  }
